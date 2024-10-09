@@ -1,11 +1,24 @@
-# 💫 About Me: <br> ==> <a href="https://abdellahbounab.framer.website/" target="_blank">Portfolio</a> <==
-Software developer passionate about leveraging new technologies to create scalable web solutions. Strong focus on problem-solving and eagerness to explore upcoming challenges and positively impact the field.
+## <img width="100%" alt="about" src="https://media.licdn.com/dms/image/v2/D4E16AQHxS9buwAdTQw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708081089177?e=1733961600&v=beta&t=3OZ6eH-eGbmURzqPAyEYbhJCSSx7KLukDeMVVLYphHI">  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me : <a href="https://abdellahbounab.framer.website/" target="_blank">abdellahbounab.com</a> 
 
+### Hey devs 
+<p>
+I'm Abdellah, Software Developer with a strong foundation in Java, C, and C++. I'm passionate about crafting robust, secure web applications using modern frameworks like Spring Boot. My ability to solve complex problems and my insatiable curiosity drive me to create scalable, user-centric solutions.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black)<br/>
+With a solid background in Computer Science from SUPISI and 1337 UM6P Coding School, I've honed my technical skills and gained practical experience in software development. Beyond my academic pursuits, I actively contribute to open-source projects and stay up-to-date with the latest frameworks and technologies.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm dedicated to making a positive impact in the field by building innovative web applications that exceed expectations.
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
+ 
+ ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Languages and Tools
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,java,php,py,ts,angular,bootstrap,eclipse,git,github,linux,maven,mongodb,mysql,nodejs,sass,spring,sqlite,stackoverflow,visualstudio,vscode,spring,docker,kubernetes)](https://skillicons.dev)
+<br/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+</div>
+
+##  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
