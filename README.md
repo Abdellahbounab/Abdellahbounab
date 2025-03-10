@@ -1,4 +1,4 @@
-## <img width="100%" alt="about" src="https://media.licdn.com/dms/image/v2/D4E16AQHxS9buwAdTQw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708081089177?e=1733961600&v=beta&t=3OZ6eH-eGbmURzqPAyEYbhJCSSx7KLukDeMVVLYphHI">  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me : <a href="https://abdellahbounab.framer.website/" target="_blank">abdellahbounab.com</a> 
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me : <a href="https://abdellahbounab.framer.website/" target="_blank">abdellahbounab.com</a> 
 
 ### Hey devs 
 <p>
